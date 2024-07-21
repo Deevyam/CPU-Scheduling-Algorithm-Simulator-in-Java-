@@ -5,14 +5,6 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-<div align="center">
-  <p>
-    <p align="center">
-      <img align="center" src="https://readme-typing-svg.herokuapp.com?color=%23${textVal}&lines=+;👨🏻‍💻+CPU+Scheduling+Algorithms+👩🏻‍💻;">
-    </p>
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5"/>
-  </p>
-</div>
 
 <h2>Project Description</h2>
 
