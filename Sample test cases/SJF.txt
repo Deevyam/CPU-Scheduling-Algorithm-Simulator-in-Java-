@@ -1,0 +1,47 @@
+// Example 1 : 
+Input : 
+Processes    Arrival Time     	Burst Time      
+    P1	           2	             6
+    P2	           5	             2
+    P3	           1	             8
+    P4	           0	             3
+    P5	           4	             4
+
+Output : 
+PID     AT      BT      CT      TAT     WT
+1       2       6       9       7       1
+2       5       2       11      6       4
+3       1       8       23      22      14
+4       0       3       3       3       0
+5       4       4       15      11      7
+
+Average Turn Around Time is : 9.8 units
+Average waiting time is : 5.2 units
+
+// Example 2 : 
+Input : 
+Processes    Arrival Time     	Burst Time      
+    P1	           1	             7
+    P2	           3	             3
+    P3	           6	             2
+    P4	           7	             10
+    P5	           9	             8
+
+Output : 
+PID     AT      BT      CT      TAT     WT
+1       1       7       8       7       0
+2       3       3       13      10      7
+3       6       2       10      4       2
+4       7       10      31      24      14
+5       9       8       21      12      4
+
+Average Turn Around Time is : 11.4 units
+Average waiting time is : 5.4 units
+
+// Example 3 :
+Processes    Arrival Time     	Burst Time      
+    P1	           2	             6
+    P2	           5	             2
+    P3	           1	             8
+    P4	           0	             3
+    P5	           4	             4
